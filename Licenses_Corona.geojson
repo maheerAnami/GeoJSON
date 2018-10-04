@@ -1,0 +1,533 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Botanica",
+        "licenseType": "retail",
+        "revenue": 44430.67
+      },
+      "geometry": {
+        "coordinates": [
+          -117.590997,
+          33.862264
+        ],
+        "type": "Point"
+      },
+      "id": "0895af7a72148e4480f9363c0042828f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Erik's",
+        "licenseType": "grower",
+        "revenue": 71776.91
+      },
+      "geometry": {
+        "coordinates": [
+          -117.58756,
+          33.892552
+        ],
+        "type": "Point"
+      },
+      "id": "0ba855405f51f2926017153a336138a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "GenaThera",
+        "licenseType": "laboratory",
+        "revenue": 36277.22
+      },
+      "geometry": {
+        "coordinates": [
+          -117.59641,
+          33.893752
+        ],
+        "type": "Point"
+      },
+      "id": "0ebcbd3670cdc463c71c3ce74a884e7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "GenaThera",
+        "licenseType": "laboratory",
+        "revenue": 36277.22
+      },
+      "geometry": {
+        "coordinates": [
+          -117.56544,
+          33.831581
+        ],
+        "type": "Point"
+      },
+      "id": "1252edd65733949696a818918c32fe34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Cloud 9",
+        "licenseType": "manufacturer",
+        "revenue": 54935.43
+      },
+      "geometry": {
+        "coordinates": [
+          -117.598557,
+          33.886461
+        ],
+        "type": "Point"
+      },
+      "id": "13d79e6202fa17af6a2a7ad348e44767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Cloud 9 Showroom",
+        "licenseType": "retail",
+        "revenue": 20444.87
+      },
+      "geometry": {
+        "coordinates": [
+          -117.599411,
+          33.884943
+        ],
+        "type": "Point"
+      },
+      "id": "1aad85256e4a051352014f6a48fb8157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Makers End",
+        "licenseType": "grower",
+        "revenue": 19022.37
+      },
+      "geometry": {
+        "coordinates": [
+          -117.588243,
+          33.841811
+        ],
+        "type": "Point"
+      },
+      "id": "1af33b5c2779e604574d4366a55f4171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Old Toby",
+        "licenseType": "grower",
+        "revenue": 24120.97
+      },
+      "geometry": {
+        "coordinates": [
+          -117.619578,
+          33.863277
+        ],
+        "type": "Point"
+      },
+      "id": "20ac6a9f925e58e662b64dd9fb1568a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Tir na Nog",
+        "licenseType": "manufacturer",
+        "revenue": 72629.39
+      },
+      "geometry": {
+        "coordinates": [
+          -117.546079,
+          33.819729
+        ],
+        "type": "Point"
+      },
+      "id": "25a2d6fdd1e4a1db64674c0093588ee0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Nirvana",
+        "licenseType": "retail",
+        "revenue": 34868.25
+      },
+      "geometry": {
+        "coordinates": [
+          -117.542788,
+          33.844952
+        ],
+        "type": "Point"
+      },
+      "id": "32fac4ba4fbd74ceb7e4fc9127e240b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Hell's Gate",
+        "licenseType": "manufacturer",
+        "revenue": 75894.73
+      },
+      "geometry": {
+        "coordinates": [
+          -117.585365,
+          33.870677
+        ],
+        "type": "Point"
+      },
+      "id": "34a151323f150c49e4d4cd6615e8da55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Green Devil",
+        "licenseType": "laboratory",
+        "revenue": 50516.02
+      },
+      "geometry": {
+        "coordinates": [
+          -117.556975,
+          33.867327
+        ],
+        "type": "Point"
+      },
+      "id": "3c05282b3021f7501e094be5d7ef0f7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Blue Angel",
+        "licenseType": "medical",
+        "revenue": 50457.64
+      },
+      "geometry": {
+        "coordinates": [
+          -117.535369,
+          33.815379
+        ],
+        "type": "Point"
+      },
+      "id": "3f51e0d0ac8b55ffe8485a568e88c8bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Akatsuki",
+        "licenseType": "grower",
+        "revenue": 53964.42
+      },
+      "geometry": {
+        "coordinates": [
+          -117.495127,
+          33.846263
+        ],
+        "type": "Point"
+      },
+      "id": "40bbc1009016d656fb63b4ddc15c4274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Akaki Chigiri",
+        "licenseType": "retail",
+        "revenue": 99571.65
+      },
+      "geometry": {
+        "coordinates": [
+          -117.516588,
+          33.865199
+        ],
+        "type": "Point"
+      },
+      "id": "433241cfc306bc081a34264115ff8d02"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Tom's",
+        "licenseType": "retail",
+        "revenue": 7541.43
+      },
+      "geometry": {
+        "coordinates": [
+          -117.528929,
+          33.865505
+        ],
+        "type": "Point"
+      },
+      "id": "4bb55e27c039ff3a604a413f3be8f6ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Bud's Buds",
+        "licenseType": "manufacturer",
+        "revenue": 56453.14
+      },
+      "geometry": {
+        "coordinates": [
+          -117.553904,
+          33.885458
+        ],
+        "type": "Point"
+      },
+      "id": "5dfae4d52063fd27b9f372bbad50900f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Elysian Fields",
+        "licenseType": "grower",
+        "revenue": 12042.72
+      },
+      "geometry": {
+        "coordinates": [
+          -117.513176,
+          33.820647
+        ],
+        "type": "Point"
+      },
+      "id": "627a141eeb787202704db474f23d1fe0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Ripper",
+        "licenseType": "retail",
+        "revenue": 28382.79
+      },
+      "geometry": {
+        "coordinates": [
+          -117.541812,
+          33.875937
+        ],
+        "type": "Point"
+      },
+      "id": "63f103cb41091a5f5021ec031fc49857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Are You Ready!!",
+        "licenseType": "retail",
+        "revenue": 52702.34
+      },
+      "geometry": {
+        "coordinates": [
+          -117.579268,
+          33.865716
+        ],
+        "type": "Point"
+      },
+      "id": "6cc63e39dfeacf2e2dba9b5191d59567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "C'est Si Bon",
+        "licenseType": "manufacturer",
+        "revenue": 66184.32
+      },
+      "geometry": {
+        "coordinates": [
+          -117.571461,
+          33.87288
+        ],
+        "type": "Point"
+      },
+      "id": "7bf47196ce9be335c2c5cd0cb9853cd1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Feuer",
+        "licenseType": "laboratory",
+        "revenue": 3171.62
+      },
+      "geometry": {
+        "coordinates": [
+          -117.502199,
+          33.859225
+        ],
+        "type": "Point"
+      },
+      "id": "7cc09bcb072b1d36d95d51bc263540df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Bayer",
+        "licenseType": "laboratory",
+        "revenue": 90854.05
+      },
+      "geometry": {
+        "coordinates": [
+          -117.553805,
+          33.817405
+        ],
+        "type": "Point"
+      },
+      "id": "7cd022fe65d75cce40a01977dae68263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Rhani's Blessing",
+        "licenseType": "manufacturer",
+        "revenue": 27883.25
+      },
+      "geometry": {
+        "coordinates": [
+          -117.635796,
+          33.874617
+        ],
+        "type": "Point"
+      },
+      "id": "7e8cd829fd264f16a45561ac068e53f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Mirage",
+        "licenseType": "retail",
+        "revenue": 84583.59
+      },
+      "geometry": {
+        "coordinates": [
+          -117.547464,
+          33.838779
+        ],
+        "type": "Point"
+      },
+      "id": "8602300e05a30a861167ee5a054b889b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Desert Tiger",
+        "licenseType": "grower",
+        "revenue": 85760.99
+      },
+      "geometry": {
+        "coordinates": [
+          -117.544903,
+          33.886057
+        ],
+        "type": "Point"
+      },
+      "id": "8fe0ebb2629dcf8dcfc83a44b072a1cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Three Roosters",
+        "licenseType": "grower",
+        "revenue": 92371.65
+      },
+      "geometry": {
+        "coordinates": [
+          -117.568643,
+          33.876241
+        ],
+        "type": "Point"
+      },
+      "id": "93af33485fddfd4b61333f4cb5401002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Ancient Cure",
+        "licenseType": "laboratory",
+        "revenue": 66497.33
+      },
+      "geometry": {
+        "coordinates": [
+          -117.564405,
+          33.872902
+        ],
+        "type": "Point"
+      },
+      "id": "945becac16a33471348f448c20b72fe9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Sharon's",
+        "licenseType": "retail",
+        "revenue": 30576.00
+      },
+      "geometry": {
+        "coordinates": [
+          -117.574779,
+          33.835335
+        ],
+        "type": "Point"
+      },
+      "id": "98ebc086ca5f1f8a962fb3132ded9646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Agora Medical",
+        "licenseType": "medical",
+        "revenue": 45175.69
+      },
+      "geometry": {
+        "coordinates": [
+          -117.64104,
+          33.868036
+        ],
+        "type": "Point"
+      },
+      "id": "98fc7d8cd9928d1948ef829e6cba4fde"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Asura",
+        "licenseType": "manufacturer",
+        "revenue": 7675.90
+      },
+      "geometry": {
+        "coordinates": [
+          -117.555733,
+          33.866324
+        ],
+        "type": "Point"
+      },
+      "id": "a18ad80277699581d84429fcc3ba46fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Asura Growhouse",
+        "licenseType": "grower",
+        "revenue": 63474.84
+      },
+      "geometry": {
+        "coordinates": [
+          -117.530472,
+          33.891122
+        ],
+        "type": "Point"
+      },
+      "id": "a557c75403168aba787428b729df9b18"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "licenseName": "Asura Showroom",
+        "licenseType": "retail",
+        "revenue": 87776.14
+      },
+      "geometry": {
+        "coordinates": [
+          -117.555365,
+          33.892317
+        ],
+        "type": "Point"
+      },
+      "id": "a5beb224dfbfa9cf725857916c1facf7"
+    }
+  ],
+  "type": "FeatureCollection"
+}
